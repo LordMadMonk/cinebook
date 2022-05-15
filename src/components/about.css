@@ -1,0 +1,42 @@
+.img{
+    border: black 1px solid;
+    width: 80vw;
+    height: auto;
+    padding: 10px;
+}
+.intro-box1{
+    /* background-color: aquamarine; */
+    background-image: url("./bybg.jpg");
+    width: 70vw;
+    height:40vh;
+    overflow: hidden;
+    background-size: cover;
+    border-radius: 25px;
+    margin-bottom: 10vh;
+    color: white;
+    -webkit-text-stroke: black 1px;
+    text-align: center;
+    padding: 5vh;
+    margin-left: 2vw;
+
+}
+
+.intro-box2{
+    /* background-color: aquamarine; */
+    background-image: url("./bybg.jpg");
+    width: 70vw;
+    height:40vh;
+    overflow: hidden;
+    background-size: cover;
+    border-radius: 25px;
+    margin-bottom: 10vh;
+    margin-left: auto;
+    color: white;
+    -webkit-text-stroke: black 1px;
+    text-align: center;
+    padding: 5vh;
+    margin-right: 2vw;
+}
+.about-body{
+    background-color: black;
+}

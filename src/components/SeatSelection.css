@@ -1,0 +1,37 @@
+.theatre_bottom {
+    height: 80px;
+    width: 80%;
+    margin-left: 130px;
+    /* position: fixed; */
+    border-radius: 5px;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    background-image: linear-gradient(rgb(63, 172, 209), rgb(87, 114, 233));
+    justify-content: space-around;
+  }
+  .theatre_price {
+    display: flex;
+    align-items: center;
+  }
+  .theatre_price > h3 {
+    padding: 0px 20px;
+  }
+  .pay-now-button{
+      margin-left: 15vw;
+      border: white solid 1px;
+  }
+
+  .select-seat-body{
+    background-image: url('./seatselectionbg.jpg');
+  }
+  .details{
+    /* background: linear-gradient(to right, #8e0e00, #1f1c18); */
+    background: linear-gradient(to right, #dc2424, #4a569d);
+    color: yellow;
+    width: 35vw;
+    text-align: center;
+    margin: 5vh;
+    margin-left: 32vw;
+    border-radius: 20px;
+  }

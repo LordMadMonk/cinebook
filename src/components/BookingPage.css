@@ -1,0 +1,54 @@
+.slider1{
+    background-color: grey;
+    width: 100vw;
+    height: 25vw;
+}
+
+.slider2{
+    background-color: grey;
+    width: 100vw;
+    height: 25vw;
+}
+
+.slider3{
+    background-color: grey;
+    width: 100vw;
+    height: 25vw;
+}
+
+.movie-banner{
+    margin: auto;
+    background-color: grey;
+    width: 75vw;
+    height: 50vh;
+    
+}
+
+.seat-select{
+    margin-left:36vw; 
+    margin-top:10vh;
+    margin-bottom: 10vh;
+}
+/* .res-button{
+    margin-left:43vw; 
+    margin-bottom: 10vh;
+} */
+
+.theatre_name > h2{
+    cursor: pointer;
+}
+
+.booking-page-body{
+    background: linear-gradient(to right, #e65c00, #f9d423);
+}
+.show-details{
+    background: linear-gradient(to right, #8e0e00, #1f1c18);
+    width: 30vw;
+    color: white;
+    text-align: center;
+    margin-left: 33vw;
+    border-radius: 20px;
+}
+.show-details>div>h2{
+    text-decoration: underline;
+}

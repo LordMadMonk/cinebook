@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Caveat', 'cursive';
+    /* background-color: black; */
+}
+
+.g-1{
+    width: 45vw;
+    height: auto;
+    display: inline-flex;
+}
+
+.cardbody{
+    background-color: black;
+    color: whitesmoke ;
+}
+
+.movie{
+    /* margin: 88px; */
+    display: inline-flex;
+    position: relative;
+    /* object-fit: contain; */
+    flex-wrap: wrap;
+    border: 1px solid black;
+}
+.cardimg{
+
+    height: 50vh;
+    width: auto;
+}
+
+card{
+    display: inline-flex;
+}
+.home-body{
+    background-color: aquamarine;
+    background-image: url("./homebg.jpg");
+}
+
+.featured-movie{
+    background: linear-gradient(to right, #dc2424, #4a569d);
+    color: yellow;
+    width: 35vw;
+    text-align: center;
+    margin: 5vh;
+    margin-left: 32vw;
+    border-radius: 20px;
+}
+.home-slider{
+    /* text-align: center; */
+    margin-left: 25vw;
+}

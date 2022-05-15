@@ -1,0 +1,20 @@
+.col{
+    /* border: 1px solid black; */
+    margin: 1vh;
+    
+}
+.row{
+    /* border: 1px solid black; */
+    width: auto;
+    height: auto;
+}
+
+.logout-button{
+    margin-left: 93vw;
+}
+
+.admin-home-body{
+    /* background: linear-gradient(to right, #f12711, #f5af19); */
+    background: linear-gradient(to right, #56ccf2, #2f80ed);
+    height: 100vh;
+}

@@ -1,0 +1,19 @@
+.ticket{
+    background-color: aquamarine;
+}
+
+.ticket-card-body{
+    /* background: linear-gradient(to right, #000428, #004e92); */
+    background: linear-gradient(to right, #fceabb, #f8b500); 
+    /* background-image: url("./ticketbg.jpg"); */
+    margin: 5vh;
+    margin-left: 32vw;
+}
+.ticket-card-body>div{
+    color: white;
+    -webkit-text-stroke: 1px black;
+    /* font-family: 'Anton', sans-serif; */
+    font-weight: 900;
+
+
+}

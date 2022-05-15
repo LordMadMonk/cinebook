@@ -1,0 +1,12 @@
+.contact-body{
+    /* background-color: aquamarine; */
+    background-image: url("https://64.media.tumblr.com/485dc0394a3ce2a7d54482804a88d49d/tumblr_norv7gPSUk1sm82nho1_500.png");
+    /* overflow: hidden;
+    background-size: cover; */
+}
+
+.cont{
+    width: 100vw;
+    height: 60vh;
+    font-family: 'Beau Rivage', cursive;
+}

@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.login{
+    margin-top: 2vh;
+    margin-bottom: 3vh;
+}
+.login-page-body{
+    background-image:url("./loginbgimg1.jpg");
+    /* background-color:aquamarine; */
+    height: 146vh;
+    width: 100vw;
+    /* background: #000; */
+}
+
+.footer-body{
+    padding: 0;
+    margin: 0;
+    opacity: 0.75;
+    background-color: black;
+}
+#form-body{
+    background-color: #fcfcfca6 ;
+    
+    /* opacity: 0.75; */
+
+}
